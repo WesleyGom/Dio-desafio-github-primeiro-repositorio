@@ -1,1 +1,8 @@
-txt
+Comandos basicos Git
+ls - lista diretorios
+cd / - entra em diretorio
+cd.. - retorna 1 nivel diretorio
+tab - autocompletar
+Cntrl + L - limpa o terminal 
+mkdir - cria diretorio
+
