@@ -1,0 +1,22 @@
+# Comandos basicos Git
+ls - lista diretorios
+cd / - entra em diretorio
+cd.. - retorna 1 nivel diretorio
+tab - autocompletar
+Cntrl + L - limpa o terminal 
+mkdir - cria diretorio
+
+git init - inicializa o git no diretorio
+
+git add * - adiciona arquivos ou diretorios 
+
+git commit - comita as atualizações geradas
+
+git push origin main/master - envia as atualizações ao repositorio remoto
+ 
+
+Links úteis
+
+* [Dicas para o desafio](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a1134ba9-3c54-4650-a24a-6964a182d919)
+* [Trabalhando com o GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/00c82124-1594-49e8-9f82-4d8c85aa5a48?back=/track/decola-tech-2a-edicao)
+
