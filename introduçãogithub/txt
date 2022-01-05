@@ -6,3 +6,10 @@ tab - autocompletar
 Cntrl + L - limpa o terminal 
 mkdir - cria diretorio
 
+git init - inicializa o git no diretorio
+
+git add * - adiciona arquivos ou diretorios 
+
+git commit - comita as atualizações geradas
+
+git push origin main/master - envia as atualizações ao repositorio remoto
